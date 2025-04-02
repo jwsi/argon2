@@ -1,6 +1,15 @@
-# Argon2
+<p align="center">
+    <picture align="center">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jwsi/argon2/master/docs/static/logo.png">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jwsi/argon2/master/docs/static/logo.png">
+        <img alt="argon2" src="https://raw.githubusercontent.com/jwsi/argon2/master/docs/static/logo.png" height="250px">
+    </picture>
+</p>
 
-This is the underlying C implementation of Argon2 that powers pyargon2.
+<p align="center">
+    <strong>Argon2 C Reference Library</strong><br>
+    A maintained fork from the original <a href="https://github.com/P-H-C/phc-winner-argon2">PHC Repo</a>
+</p>
 
 ## Usage
 
